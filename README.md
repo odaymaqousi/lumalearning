@@ -36,13 +36,13 @@ LumaLearn was created as a personal project to explore web development, educatio
 ## Screenshots
 
 ### Home Page
-![LumaLearn Home](screenshots/home.png)
+![LumaLearn Home](Screenshot%20%28237%29.png)
 
 ### Learning Session
-![Learning Session](screenshots/lesson.png)
+![Learning Session](Screenshot%20%28238%29.png)
 
 ### Quiz
-![Quiz](screenshots/quiz.png)
+![Quiz](Screenshot%20%28239%29.png)
 
 ### Quiz Results
-![Quiz Results](screenshots/results.png)
+![Quiz Results](Screenshot%20%28240%29.png)
