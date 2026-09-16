@@ -33,3 +33,16 @@ LumaLearn was created as a personal project to explore web development, educatio
 - User accounts
 - Cloud-based progress tracking
 - More subjects and educational content
+## Screenshots
+
+### Home Page
+![LumaLearn Home](screenshots/home.png)
+
+### Learning Session
+![Learning Session](screenshots/lesson.png)
+
+### Quiz
+![Quiz](screenshots/quiz.png)
+
+### Quiz Results
+![Quiz Results](screenshots/results.png)
