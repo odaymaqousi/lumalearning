@@ -36,6 +36,7 @@ LumaLearn was created as a personal project to explore web development, educatio
 ## Screenshots
 
 ### Home Page
+![LumaLearn Home](image.png)
 
 
 
